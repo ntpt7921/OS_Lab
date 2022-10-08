@@ -1,0 +1,7 @@
+# ignore the lab instruction
+Instruction/
+
+# ignore any binary file
+*.o
+*.s
+*.so
