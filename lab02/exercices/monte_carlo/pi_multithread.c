@@ -5,7 +5,7 @@
 #include <time.h>
 #include <math.h>
 
-#define NUM_THREAD 4
+#define NUM_THREAD 1
 #define MIN_COORD ((double) -1)
 #define MAX_COORD ((double) 1)
 #define RADIUS ((MAX_COORD - MIN_COORD) / 2)
