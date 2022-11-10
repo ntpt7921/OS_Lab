@@ -4,6 +4,7 @@
 
 int sum;
 void *runner(void *param);
+void *test_ptr = (void*) -1;
 
 int main(int argc, char *argv[])
 {
